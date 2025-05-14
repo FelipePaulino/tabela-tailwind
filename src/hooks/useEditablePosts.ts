@@ -1,4 +1,3 @@
-// hooks/useEditablePosts.ts
 import { useState } from "react";
 import type { Post } from "../components/SearchTable";
 
